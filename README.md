@@ -2,6 +2,8 @@
 
 Un script ligero de Bash diseñado para analizar archivos de registro (logs) de Nginx y extraer estadísticas clave de forma rápida directamente desde la terminal.
 
+https://roadmap.sh/projects/nginx-log-analyser
+
 ## 🚀 Descripción del Proyecto
 
 Esta herramienta procesa un archivo de log estándar de Nginx (`nginx-access.log.txt`) para proporcionar un resumen rápido del tráfico del servidor. Genera los siguientes informes:
